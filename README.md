@@ -25,20 +25,17 @@ The **Attendance Management System (AMS)** is a web application developed to man
 
 ## Technologies Used
 
-- **Java 17**: Backend development using Java.
+- **Java 21**: Backend development using Java.
 - **Spring Boot**: Framework for building the backend API and security.
-- **Spring Security**: Security module for handling authentication and authorization.
 - **Thymeleaf**: Template engine for rendering HTML pages.
-- **H2 Database** (in-memory database) or **MySQL**: Database for storing attendance and user details.
-- **JWT (JSON Web Token)**: For secure API authentication.
-- **BCrypt**: For password encryption.
+- **MySQL**: Database for storing attendance and user details.
 - **Maven**: Build and dependency management tool.
 
 ## Setup Instructions
 
 ### Prerequisites
 
-- **JDK 17** or higher installed on your system.
+- **JDK 21** or higher installed on your system.
 - **Maven** for managing dependencies and building the project.
 - A database (MySQL or H2) configured for use.
 
